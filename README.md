@@ -12,10 +12,7 @@ A novidade é que,esse sistema conta com um display LCD que  além de mostrar a 
 
 No recebimento de informações, a cada 1 segundo o Arduino lê os três sensores. A cada 10 leituras, totalizando 10 segundos 
 
-GRANDEZA     ||     OK       ||       ALERTA         ||         PROBLEMA
-TEMPERATURA  ||   10 A 16 C° ||     8-10 OU 16-18C°  ||   ABAIXO DE 8 OU ACIMA DE 18°C
-UMIDADE      ||   60 A 80%   ||     50-60 OU 80-90%  ||   ABAIXO DE 50 OU ACIMA DE 90%
-LUMINOSIDADE ||    0 A 29%   ||      30 A 69%        ||   70% OU MAIS
+<img width="1129" height="259" alt="image" src="https://github.com/user-attachments/assets/22107427-83a8-4bf6-bee1-9cdb1cdf098c" />
 
 
 ## Componentes 
@@ -63,9 +60,7 @@ LUMINOSIDADE ||    0 A 29%   ||      30 A 69%        ||   70% OU MAIS
 
  8.Adicione o Buzzer e defina os limites para a calibração do LDR:
 
-*GRANDEZA     ||     OK       ||       ALERTA         ||         PROBLEMA*
-*TEMPERATURA  ||   10 A 16 C° ||     8-10 OU 16-18C°  ||   ABAIXO DE 8 OU ACIMA DE 18°C*
-*UMIDADE      ||   60 A 80%   ||     50-60 OU 80-90%  ||   ABAIXO DE 50 OU ACIMA DE 90%*
-*LUMINOSIDADE ||    0 A 29%   ||      30 A 69%        ||   70% OU MAIS*
+<img width="1129" height="259" alt="image" src="https://github.com/user-attachments/assets/210e94ad-8d1c-4d71-82d1-cca1ddfddc0c" />
+
 
  -o buzzer também será acionado quando o LED vermelho estiver ligado, não mais só quando o LED amarelo estiver ligado.
