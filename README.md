@@ -40,7 +40,7 @@ LUMINOSIDADE ||    0 A 29%   ||      30 A 69%        ||   70% OU MAIS
  <RTClib.h>            
  <EEPROM.h>
 
- ## Como reproduzir o projeto
+ ## Como replicar o projeto
  1. Conete o LCD ao Arduíno, adicione a biblioteca "LiquidCrystal I2C" no código e teste se a mensagem de boas vindas esta funcionando.
 
  2. Adicione o sensor DHT22, usado para medir a temperatura e a umidade, e a sua biblioteca "DHT sensor library" 
