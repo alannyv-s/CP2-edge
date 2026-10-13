@@ -12,7 +12,6 @@ A novidade é que,esse sistema conta com um display LCD que  além de mostrar a 
 
 No recebimento de informações, a cada 1 segundo o Arduino lê os três sensores. A cada 10 leituras, totalizando 10 segundos 
 
-<img width="1129" height="259" alt="image" src="https://github.com/user-attachments/assets/22107427-83a8-4bf6-bee1-9cdb1cdf098c" />
 
 
 ## Componentes 
